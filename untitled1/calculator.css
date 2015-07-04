@@ -1,0 +1,31 @@
+
+.cellclass{
+    height:70px;
+    width:70px;
+    border:1px solid #000000;
+    background-color: gray;
+    float:left;
+}
+
+.divclass{
+    style:"font-weight:bolder";
+    color:#FFFFFF;
+}
+
+.resultDivClass{
+    height:70px;
+    width:285px;
+    background-color: #FFFFFF;
+    border-color: black;
+    border:2px solid black;
+    text-align: right;
+    font-weight: bold ;
+}
+
+#one, #two, #three, #four{
+    clear:both;
+}
+
+ol {
+    margin-left: 200px;
+}
